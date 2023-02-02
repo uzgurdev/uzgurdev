@@ -23,3 +23,4 @@ Web developer and Reactjs/JavaScript developer
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rahmarulloh&icon=3&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rahmatulloh&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
